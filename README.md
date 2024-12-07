@@ -1,4 +1,5 @@
 # PPE Detection - Personal Protective Equipment Detection using YOLOv8 Object Detection
+![pic](https://github.com/user-attachments/assets/e9a868e5-61aa-4c2c-85fb-5a7cc3e0025b)
 
 ## Introduction
 
