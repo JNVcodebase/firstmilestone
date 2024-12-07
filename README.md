@@ -1,15 +1,4 @@
-
-
 # PPE Detection - Personal Protective Equipment Detection using YOLOv8 Object Detection
-
-
-
-
-## 
-
-
-![ss](https://github.com/ishita126jain/PPE-Detection/assets/91709949/0201e29c-e186-46d7-99fc-6104059af6fb)
-
 
 ## Introduction
 
@@ -74,5 +63,4 @@ Contributions are always welcome!
 If you find any issues or have suggestions for improvements, feel free to create a pull request.
 
 
-## Contact
-For any questions or inquiries, please contact us at [ishita126jain@gmail.com](ishita126jain@gmail.com).
+
